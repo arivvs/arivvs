@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior c++ dev<br>Middle Python developer<br>Studying JS <br>Fun fact - i hate linux(jk)
+Middle Python developer<br>Studying с++ and c# <br>
 
 
 ## 🌐 Socials:
