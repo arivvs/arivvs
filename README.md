@@ -1,5 +1,5 @@
 # 💫 About Me:
-Middle Python developer<br>Studying с++ and c# 
+Middle Python developer<br>Studying с++ and c# <br>
 Speaken languages: Russian/English/Bulgarian
 <br>
 
