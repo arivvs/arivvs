@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Python developer<br>Studying js and c# <br>
+Junior Python developer<br>Studying c++ <br>
 Speaken languages: Russian/English/Bulgarian
 <br>
 
